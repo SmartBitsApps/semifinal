@@ -1,0 +1,15 @@
+cs:
+  helpers:
+    actions: "Ovládání"
+    links:
+      new: "Nová akce" 
+      show: "Zobrazit"
+      edit: "Editovat"
+      destroy: "Smazat"
+      cancel: "Zrušit"
+      confirm: "Opravdu chcete tuto položku odstranit?"
+      back: "Zpět"
+      
+  #title: "Nadpisss"
+  
+  

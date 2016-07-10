@@ -94,4 +94,8 @@ Rails.application.configure do
     enable_starttls_auto: true
   }
   
+  # i18n translation change -> :cs
+  config.i18n.available_locales = :cs
+  config.i18n.default_locale = :cs
+  
 end
